@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\aluno\desktop\alysson\listaduplamenteencadeada\main.cpp
+	<iostream>
+
+1446667744 
+
+1507167859 source:c:\users\aluno\desktop\alysson\listaduplamenteencadeada\listaduplamenteencadeada.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"ListaDuplamenteEncadeada.h"
+
+1507167859 amenteEncadeada.h"
+
+1507165129 c:\users\aluno\desktop\alysson\listaduplamenteencadeada\listaduplamenteencadeada.h
+
+1513713816 source:/home/marcos/c++/ListaDuplamenteEncadeada/ListaDuplamenteEncadeada.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"ListaDuplamenteEncadeada.h"
+
+1513635910 /home/marcos/c++/ListaDuplamenteEncadeada/ListaDuplamenteEncadeada.h
+
+1513714030 source:/home/marcos/c++/ListaDuplamenteEncadeada/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ListaDuplamenteEncadeada.h"
+
