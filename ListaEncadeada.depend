@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1504754189 source:c:\users\aluno\documents\listaencadeada\lista.cpp
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
+1504749296 c:\users\aluno\documents\listaencadeada\lista.h
+
+1504754112 source:c:\users\aluno\documents\listaencadeada\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
